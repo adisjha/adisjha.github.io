@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom/client';
 import './index.scss';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import './assets/styles/satoshi.css';
 
 
 const root = ReactDOM.createRoot(
